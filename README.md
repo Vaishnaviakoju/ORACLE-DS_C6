@@ -19,12 +19,8 @@ This was a hands-on journey into **machine learning on the cloud**, where I buil
 
 ---
 
-## 💡 Example Project
-Built a **customer churn prediction model**:
-- Pulled data from Object Storage into Jupyter using ADS SDK  
-- Trained with XGBoost, tuned for accuracy  
-- Deployed as a REST endpoint for live scoring  
-- Configured monitoring to retrain automatically if accuracy dropped  
+## 🎥 My Experience & Video Presentation
+👉 [Click here to watch my experience and what I learned from this course](https://drive.google.com/file/d/1eqEa1K91hxCXAVyQNL2DWoYAGSwUeX6E/view?usp=sharing)
 
 ---
 
