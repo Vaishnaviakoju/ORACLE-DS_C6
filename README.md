@@ -6,10 +6,7 @@ This was a hands-on journey into **machine learning on the cloud**, where I buil
 
 ---
  ## Progress
- ![OCI Data Science Professional Progress](./oci_ds_progress_front.png)
-
-
-
+![OCI Data Science Professional Progress](./PROGRESS_C6.jpg)
 ## 🌟 What I Learned
 - 🗂️ Setting up **secure OCI Data Science workspaces and projects**  
 - 🧹 Preparing and transforming datasets with **ADS SDK**  
