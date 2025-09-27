@@ -6,7 +6,8 @@ This was a hands-on journey into **machine learning on the cloud**, where I buil
 
 ---
  ## Progress
- [📄 View My OCI Data Science Professional Progress](./ORACLE_DS_PROGRESS_C6.pdf)
+ ![OCI Data Science Professional Progress](./oci_ds_progress_front.png)
+
 
 
 ## 🌟 What I Learned
